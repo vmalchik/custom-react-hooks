@@ -1,0 +1,10 @@
+{
+
+  "hi": "hello",
+  "bye": "goodbye",
+  "nested": {
+    "foo": {
+      "bar": "nested foo bar"
+    }
+  }
+}

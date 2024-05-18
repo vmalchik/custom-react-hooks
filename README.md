@@ -9,4 +9,5 @@ These hooks cover a variety of functionalities, from managing state to handling 
 **Inspired by**:
 
 - [useHooks](https://usehooks.com/)
+- [useHooks-ts](https://usehooks-ts.com/)
 - [Web Dev Simplified](https://github.com/WebDevSimplified/useful-custom-react-hooks/tree/main)
